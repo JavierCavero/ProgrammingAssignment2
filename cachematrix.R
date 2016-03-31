@@ -9,7 +9,8 @@
             ## value not from the current environment, but from the containing one
             ## (global, in this case) if the solve computation has been peformed 
             ## previously. 
-        ## getinv, making available the inverse matrix        
+        ## getinv, making available the inverse matrix   
+
 
 
 makeCacheMatrix <- function(x = matrix()) {
